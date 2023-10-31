@@ -399,6 +399,8 @@ body {
   margin-bottom: 5%;
 }
 .header3 {
+  position: relative;
+  top: 20px;
   font-size: 25px;
   font-family: fantasy;
   color: #7939b4;
